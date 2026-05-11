@@ -17,15 +17,12 @@
 package com.idrsolutions.examples;
 
 import com.idrsolutions.image.JDeli;
-import com.idrsolutions.image.avif.options.AvifEncoderOptions;
 import com.idrsolutions.image.encoder.options.EncoderOptions;
 import com.idrsolutions.image.png.options.PngEncoderOptions;
 import org.jpedal.examples.images.ConvertPagesToImages;
-import org.jpedal.exception.PdfException;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
-import java.io.IOException;
 
 public class PdfToImage {
 
